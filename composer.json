@@ -10,7 +10,10 @@
     "autoload": {
         "psr-4": {
             "Abdulmajidcse\\PhpRoute\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     },
     "authors": [
         {
