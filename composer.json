@@ -1,0 +1,24 @@
+{
+    "name": "abdulmajidcse/php-route",
+    "description": "An elegant PHP route",
+    "homepage": "https://github.com/abdulmajidcse/php-route",
+    "keywords": [
+        "abdulmajidcse",
+        "php-route"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdulmajidcse\\PhpRoute\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Abdul Majid",
+            "email": "abdulmajidcse@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    }
+}
